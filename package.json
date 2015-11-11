@@ -1,0 +1,25 @@
+{
+  "name": "angular-dynamic-attrs-directive",
+  "version": "0.0.0",
+  "description": "Angular dynamic attributes directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/angular-dynamic-attrs-directive.git"
+  },
+  "keywords": [
+    "angular",
+    "dynamic",
+    "attributes",
+    "directive"
+  ],
+  "author": "Steve Mao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevemao/angular-dynamic-attrs-directive/issues"
+  },
+  "homepage": "https://github.com/stevemao/angular-dynamic-attrs-directive#readme"
+}
